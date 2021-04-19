@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "Uploader",
+	"version": "1.0",
+
+	"permissions": [],
+
+	"browser_action": {
+		"default_title": "Uploader",
+		"default_popup": "popup.html"
+	}
+}

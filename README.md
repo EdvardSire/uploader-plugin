@@ -1,6 +1,9 @@
 # Uploader plugin
 A Firefox extension that takes a video-URL and uploads it to a YouTube channel using the [Uploader-server](https://github.com/EdvardSire/uploader-server) backend
-![](img/example.png)
+
+<p align="center">
+<img src="img/example.png" width="60%"/>
+</p>
 
 
 ## manifest.json
